@@ -1,0 +1,1 @@
+print("Bilişim Teknolojileri")
